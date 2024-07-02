@@ -1,2 +1,1 @@
-# PRODIGY_ML_02
-Creating a K-means clustering algorithm to group customers of a retail store based on their purchase history.
+I used the K-means clustering algorithm to successfully group retail store customers based on their purchase history. This approach identified distinct customer segments, aiding in targeted marketing and personalized shopping experiences.
